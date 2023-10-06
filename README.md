@@ -1,7 +1,7 @@
 # Sales & Finance Report
 
 Tool used: Excel \
-Skill used: Pivot Table (Summarize & analyze the data), Power Query (ETL Process & Data Cleaning), Power Pivot (DAX & Data Modeling)
+Skill used: PIVOT TABLE (Summarize & analyze the data), POWER QUERY (ETL Process & Data Cleaning), POWER PIVOT (DAX & Data Modeling)
 
 AtliQ Hardware is a company which supplies computer hardware and peripherals to many of consumer via. their Customers like Croma, BEST Buy, Amazon, Flipkart, and many more across worldwide. They want us to make a report on Sales & Finance which includes the following details.
 
